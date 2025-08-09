@@ -5,7 +5,7 @@ Roomie Fi is a web application designed to connect individuals seeking roommates
 
 Live site URL: https://roomie-fi.web.app/
 
-<img src="https://github.com/hasan6t7/e-services/blob/main/Screenshot%202025-08-09%20154932.png"  />
+<img src="https://github.com/hasan6t7/roomie-fi-client/blob/main/Screenshot%202025-08-09%20162824.png"  />
 
 
 🌟 Features -
