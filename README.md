@@ -5,6 +5,8 @@ Roomie Fi is a web application designed to connect individuals seeking roommates
 
 Live site URL: https://roomie-fi.web.app/
 
+<img src="https://github.com/hasan6t7/e-services/blob/main/Screenshot%202025-08-09%20154932.png"  />
+
 
 🌟 Features -
 
@@ -38,4 +40,43 @@ Frontend: React.js , tailwind css , React Router
 Backend: Firebase (Authentication, Hosting) , MongoDB , Node js , Express js
 
 Deployment: Firebase Hosting
+
+"dependencies": {
+    "@tailwindcss/vite": "^4.1.8",
+    "aos": "^2.3.4",
+    "axios": "^1.9.0",
+    "daisyui": "^5.0.43",
+    "firebase": "^11.9.0",
+    "lottie-react": "^2.4.1",
+    "react": "^19.1.0",
+    "react-awesome-reveal": "^4.3.1",
+    "react-countup": "^6.5.3",
+    "react-dom": "^19.1.0",
+    "react-helmet": "^6.1.0",
+    "react-icons": "^5.5.0",
+    "react-intersection-observer": "^9.16.0",
+    "react-router": "^7.6.2",
+    "react-toastify": "^11.0.5",
+    "sweetalert2": "^11.22.0",
+    "tailwindcss": "^4.1.8"
+  },
+
+
+
+  ## 🚀 Getting Started
+
+Follow these steps to run E-Services locally on your machine:
+
+
+
+```bash
+git clone https://github.com/hasan6t7/e-services.git
+
+cd e-services
+
+npm install
+
+Setup your firebase env to .env.local
+
+npm run dev
  
