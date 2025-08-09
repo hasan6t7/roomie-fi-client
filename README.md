@@ -1,5 +1,8 @@
 Website name : ROOMMIE-FI
 
+Project Overview: 
+Roomie Fi is a web application designed to connect individuals seeking roommates and shared living spaces. The platform aims to simplify the process of finding compatible roommates and available rooms, making it easier for users to find suitable living arrangements.
+
 Live site URL: https://roomie-fi.web.app/
 
 
